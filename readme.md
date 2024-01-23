@@ -1,5 +1,8 @@
 # ERC20-ERC721 NFT Minting System
 
+![Screenshot 2024-01-23 191815](https://github.com/Danishlynx/ERC721Minting_with_ERC20_token/assets/69537135/5a36439e-38f0-45ff-aa7a-fae8c4f7c738)
+
+
 This project consists of three Ethereum smart contracts that enable the creation of Non-Fungible Tokens (NFTs) using an ERC20 token as the minting mechanism. The three smart contracts are as follows:
 
 1. **ERC20 Token Contract**
